@@ -42,7 +42,7 @@ The HTMM-PM desktop client is distributed as standalone installation packages fo
 
 ### 1. Windows Installation (`.exe`)
 
-1. Go to the **[Releases](../../releases)** section of this repository and download `HTMM-PM-x64.exe`.
+1. Go to the **[Releases](../../releases)** section of this repository and download `HTMM-PM-x64.7z`.
 2. Run the installer executable.
 3. If Windows SmartScreen prompts an unknown publisher warning, click **"More info"** ➔ **"Run anyway"**.
 4. Follow the setup wizard to complete installation.
