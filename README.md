@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="FOMO Desktop App." src="assets/logo-HTMM-PM.svg" />
+    <img width="1200" alt="HTMM-PM Desktop App." src="assets/logo-HTMM-PM.svg" />
   </a>
 </div>
 
