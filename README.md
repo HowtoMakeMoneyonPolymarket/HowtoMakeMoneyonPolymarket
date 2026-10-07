@@ -160,10 +160,10 @@ flowchart LR
 ## ❓ Frequently Asked Questions (FAQ)
 
 ### Is it really risk-free?
-Yes — once both legs are filled, you’ve locked the spread and profit regardless of the outcome. The risk is execution risk: if only one leg fills (the fork moves, a book voids, you mis-size), you’re temporarily exposed. SpreadCore’s auto-cancel and calculator exist to minimize exactly that.
+Yes — once both legs are filled, you’ve locked the spread and profit regardless of the outcome. The risk is execution risk: if only one leg fills (the fork moves, a book voids, you mis-size), you’re temporarily exposed. HTMM-PM’s auto-cancel and calculator exist to minimize exactly that.
 
 ### Do I need my own Polymarket & bookmaker accounts?
-Yes. SpreadCore connects to your own funded accounts and executes on your behalf — your keys, your bankroll, your positions. We never custody funds.
+Yes. HTMM-PM connects to your own funded accounts and executes on your behalf — your keys, your bankroll, your positions. We never custody funds.
 
 ### Which bookmakers are supported?
 Currently Pinnacle, Stake, Duel, Empire, Roobet, BC.Game, Mellstroy, SX and more — 9+ books matched against Polymarket, with new books added regularly (VIP gets early access).
@@ -172,7 +172,7 @@ Currently Pinnacle, Stake, Duel, Empire, Roobet, BC.Game, Mellstroy, SX and more
 There’s a free trial so you can see live forks first. Paid plans are billed in crypto via WhitePay, handled entirely through the Telegram bot — get access, pay, and manage your subscription there. Cancel anytime.
 
 ### Is this legal?
-Arbitrage itself is legal in most jurisdictions, but prediction-market and bookmaker access depends on where you live and each platform’s terms. You’re responsible for compliance with your local laws and the terms of the accounts you use. SpreadCore is a tool, not financial advice.
+Arbitrage itself is legal in most jurisdictions, but prediction-market and bookmaker access depends on where you live and each platform’s terms. You’re responsible for compliance with your local laws and the terms of the accounts you use. HTMM-PM is a tool, not financial advice.
 
 ---
 
